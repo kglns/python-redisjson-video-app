@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Video1",
+    "description": "Test Video 1",
+    "uri": "www.google.com",
+    "likes": 0,
+    "likedBy": [{
+      "name": "Robert S",
+      "email": "zz@gmail.com"
+    }]
+  },
+  {
+    "title": "Video2",
+    "description": "Test Video 2",
+    "uri": "www.yahoo.com",
+    "likes": 3,
+    "likedBy": [{
+      "name": "Henry Z",
+      "email": "zzh@gmail.com"
+    }]
+  }
+]
